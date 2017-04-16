@@ -7,7 +7,7 @@ spring:
   datasource:
     url: jdbc:postgresql://localhost:5432/travel-attraction
     username: postgres
-    password: postgres
+    password: bmbm
   jpa:
     hibernate:
       ddl-auto: validate
